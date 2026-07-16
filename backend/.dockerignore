@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Testing caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases and locks
+*.db
+*.sqlite
+*.sqlite3
+
+# Git configuration
+.git/
+.gitignore
+
+# Environment configurations and logs
+.env
+*.log
